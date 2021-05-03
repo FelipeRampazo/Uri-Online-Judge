@@ -1,0 +1,12 @@
+C:\Users\Horus\source\repos\Uri1050\Uri1050\bin\Debug\netcoreapp3.1\Uri1050.exe
+C:\Users\Horus\source\repos\Uri1050\Uri1050\bin\Debug\netcoreapp3.1\Uri1050.deps.json
+C:\Users\Horus\source\repos\Uri1050\Uri1050\bin\Debug\netcoreapp3.1\Uri1050.runtimeconfig.json
+C:\Users\Horus\source\repos\Uri1050\Uri1050\bin\Debug\netcoreapp3.1\Uri1050.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\Uri1050\Uri1050\bin\Debug\netcoreapp3.1\Uri1050.dll
+C:\Users\Horus\source\repos\Uri1050\Uri1050\bin\Debug\netcoreapp3.1\Uri1050.pdb
+C:\Users\Horus\source\repos\Uri1050\Uri1050\obj\Debug\netcoreapp3.1\Uri1050.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\Uri1050\Uri1050\obj\Debug\netcoreapp3.1\Uri1050.AssemblyInfo.cs
+C:\Users\Horus\source\repos\Uri1050\Uri1050\obj\Debug\netcoreapp3.1\Uri1050.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\Uri1050\Uri1050\obj\Debug\netcoreapp3.1\Uri1050.dll
+C:\Users\Horus\source\repos\Uri1050\Uri1050\obj\Debug\netcoreapp3.1\Uri1050.pdb
+C:\Users\Horus\source\repos\Uri1050\Uri1050\obj\Debug\netcoreapp3.1\Uri1050.genruntimeconfig.cache

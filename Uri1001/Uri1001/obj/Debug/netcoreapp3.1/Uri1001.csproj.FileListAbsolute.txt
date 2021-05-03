@@ -1,0 +1,13 @@
+C:\Users\Horus\source\repos\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.exe
+C:\Users\Horus\source\repos\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.deps.json
+C:\Users\Horus\source\repos\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.runtimeconfig.json
+C:\Users\Horus\source\repos\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.runtimeconfig.dev.json
+C:\Users\Horus\source\repos\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.dll
+C:\Users\Horus\source\repos\Uri1001\Uri1001\bin\Debug\netcoreapp3.1\Uri1001.pdb
+C:\Users\Horus\source\repos\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.csprojAssemblyReference.cache
+C:\Users\Horus\source\repos\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.AssemblyInfoInputs.cache
+C:\Users\Horus\source\repos\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.AssemblyInfo.cs
+C:\Users\Horus\source\repos\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.csproj.CoreCompileInputs.cache
+C:\Users\Horus\source\repos\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.dll
+C:\Users\Horus\source\repos\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.pdb
+C:\Users\Horus\source\repos\Uri1001\Uri1001\obj\Debug\netcoreapp3.1\Uri1001.genruntimeconfig.cache
